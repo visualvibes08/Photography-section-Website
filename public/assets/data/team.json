@@ -1,0 +1,66 @@
+{
+  "secretary": {
+    "id": 1,
+    "name": "Sohal Raj",
+    "position": "Secretary",
+    "image": "/assets/team/sohal.jpg",
+    "instagram": "@sohal.clicks",
+    "linkedin": "linkedin.com/in/sohal-raj",
+    "portfolio": "sohalphotography.com",
+    "bio": "Through the lens we dream."
+  },
+  "additionalSecretaries": [
+    {
+      "id": 2,
+      "name": "Naman Meena",
+      "position": "Additional Secretary",
+      "image": "/assets/team/naman.jpg",
+      "instagram": "@naman.frames",
+      "linkedin": "linkedin.com/in/naman-meena",
+      "bio": "Click. Create. Inspire."
+    },
+    {
+      "id": 3,
+      "name": "Harshvardhan",
+      "position": "Additional Secretary",
+      "image": "/assets/team/harsh.jpg",
+      "instagram": "@harsh.lens",
+      "linkedin": "linkedin.com/in/harshvardhan",
+      "bio": "Light is everything."
+    }
+  ],
+  "jointSecretaries": [
+    {
+      "id": 4,
+      "name": "Person A",
+      "position": "Joint Secretary",
+      "image": "/assets/team/persona.jpg",
+      "instagram": "@persona.vision",
+      "bio": "Architecture and urban photography enthusiast."
+    },
+    {
+      "id": 5,
+      "name": "Person B",
+      "position": "Joint Secretary",
+      "image": "/assets/team/personb.jpg",
+      "instagram": "@personb.captures",
+      "bio": "Nature and macro photography specialist."
+    },
+    {
+      "id": 6,
+      "name": "Person C",
+      "position": "Joint Secretary",
+      "image": "/assets/team/personc.jpg",
+      "instagram": "@personc.shots",
+      "bio": "Event and sports photography expert."
+    },
+    {
+      "id": 7,
+      "name": "Person D",
+      "position": "Joint Secretary",
+      "image": "/assets/team/persond.jpg",
+      "instagram": "@persond.focus",
+      "bio": "Fashion and portrait photography enthusiast."
+    }
+  ]
+} 

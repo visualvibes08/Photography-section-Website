@@ -1,0 +1,55 @@
+{
+  "stats": [
+    {
+      "value": "2000+",
+      "label": "Footfall"
+    },
+    {
+      "value": "50+",
+      "label": "Competitions"
+    },
+    {
+      "value": "15+",
+      "label": "Genres"
+    },
+    {
+      "value": "3",
+      "label": "Days of Exploration"
+    }
+  ],
+  "description": "Drishya is our annual photography festival held in collaboration with Thomso. It celebrates visual storytelling, showcases student photography, and invites creative exploration through multiple genres. With a footfall of over 2000+, Drishya is a celebration of lenses, light, and vision.",
+  "events": [
+    {
+      "id": 1,
+      "title": "Photography Competitions",
+      "description": "Multiple categories including Wildlife, Street, Portrait, and Landscape photography contests.",
+      "image": "/assets/photos/wildlife/wildlife2.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Expert Workshops",
+      "description": "Learn from renowned photographers through hands-on workshops and masterclasses.",
+      "image": "/assets/photos/landscape/landscape3.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Photo Exhibitions",
+      "description": "Showcase of stunning photographs from students and professional photographers.",
+      "image": "/assets/photos/portrait/portrait1.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Guest Lectures",
+      "description": "Inspiring talks by industry professionals sharing their experiences and insights.",
+      "image": "/assets/photos/landscape/landscape4.jpg"
+    }
+  ],
+  "gallery": [
+    "/assets/photos/landscape/landscape5.jpg",
+    "/assets/photos/landscape/landscape6.jpg",
+    "/assets/photos/wildlife/wildlife3.jpg",
+    "/assets/photos/portrait/portrait2.jpg",
+    "/assets/photos/wildlife/wildlife4.jpg",
+    "/assets/photos/architecture/architecture4.jpg"
+  ]
+} 

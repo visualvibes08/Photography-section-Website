@@ -1,0 +1,54 @@
+{
+  "sectionTitle": "Top Shots of the Month",
+  "genres": ["All", "Wildlife", "Street", "Portraits", "Landscape", "Architecture"],
+  "photos": [
+    {
+      "id": 1,
+      "image": "/assets/photos/landscape/landscape1.jpg",
+      "genre": "Landscape",
+      "photographer": "Rahul Kumar",
+      "description": "Misty mountains at dawn",
+      "settings": "ISO 100, f/8, 1/125s"
+    },
+    {
+      "id": 2,
+      "image": "/assets/photos/wildlife/wildlife1.jpg",
+      "genre": "Wildlife",
+      "photographer": "Priya Singh",
+      "description": "Sunbeam through the forest",
+      "settings": "ISO 400, f/5.6, 1/250s"
+    },
+    {
+      "id": 3,
+      "image": "/assets/photos/landscape/landscape2.jpg",
+      "genre": "Landscape",
+      "photographer": "Aditya Gupta",
+      "description": "Serene lakeside reflection",
+      "settings": "ISO 200, f/11, 1/60s"
+    },
+    {
+      "id": 4,
+      "image": "/assets/photos/architecture/architecture1.jpg",
+      "genre": "Architecture",
+      "photographer": "Sneha Patel",
+      "description": "Modern architectural marvel",
+      "settings": "ISO 100, f/8, 1/200s"
+    },
+    {
+      "id": 5,
+      "image": "/assets/photos/architecture/architecture2.jpg",
+      "genre": "Architecture",
+      "photographer": "Vikram Mehta",
+      "description": "Ancient mosque architecture",
+      "settings": "ISO 800, f/4, 1/125s"
+    },
+    {
+      "id": 6,
+      "image": "/assets/photos/architecture/architecture3.jpg",
+      "genre": "Architecture",
+      "photographer": "Deepika Roy",
+      "description": "Starlit heritage building",
+      "settings": "ISO 3200, f/2.8, 15s"
+    }
+  ]
+} 
